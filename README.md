@@ -1,4 +1,4 @@
-# test-automation
+# test-acceptance
 
 ### Instruction
 Build an automated acceptance test for our registration process at https://amartha.com
